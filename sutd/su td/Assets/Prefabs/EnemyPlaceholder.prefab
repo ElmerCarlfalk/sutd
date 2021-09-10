@@ -135,3 +135,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rb: {fileID: 1094227055581368265}
   speed: 25
+  currentWaypoint: 0
+  waypointList:
+  - {fileID: 1935227498506800376, guid: 29a4daec645552b44a0cdff9bbeb2d14, type: 3}
+  - {fileID: 0}
+  point1: {fileID: 0}
